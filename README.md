@@ -1,3 +1,3 @@
 # AlertDialog
 
-![AlertDialog运行效果图](http://img.blog.csdn.net/20161212133632633)
+![AlertDialog运行效果图](https://github.com/ansen666/AlertDialog/blob/master/resultimage.png)
